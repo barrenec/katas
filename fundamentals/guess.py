@@ -22,7 +22,8 @@ from random import randint
 def new_randint(x,y):
 	return 69
 
-randint = new_randint	
+randint = new_randint 	
+guess = new_randint(1,1)
 
-guess = randint(1,100) 
 print guess 
+ 
